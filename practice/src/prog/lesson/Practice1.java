@@ -1,3 +1,5 @@
+package prog.lesson;
+
 import java.util.Scanner;
 
 public class Practice1 {
